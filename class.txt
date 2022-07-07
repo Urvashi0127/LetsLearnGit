@@ -1,0 +1,7 @@
+git is used to store the changes
+
+git --version
+git init : it is used initialize a folder to git repository
+git commit : to check tracked/untracked files
+git add . or git add <filename> : to add the particular files to get committed 
+git commit -m "Message" : 
